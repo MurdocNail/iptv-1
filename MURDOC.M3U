@@ -611,9 +611,12 @@ https://r10---sn-hp57kn7y.googlevideo.com/videoplayback?requiressl=yes&id=82c253
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES",test
 https://r5---sn-hp57kn7s.c.docs.google.com/videoplayback?requiressl=yes&id=3a1a849767bc876b&itag=22&source=webdrive&app=docs&ip=187.2.39.115&ipbits=0&expire=1438912546&sparams=requiressl,id,itag,source,ip,ipbits,expire&signature=9C55B836DCDDC3B58D2A4CE6E1E5C0851D3FA071.3864A854A422EF9A9BFBBBACB30370AEC28DFA34&key=ck2&mm=30&mn=sn-hp57kn7s&ms=nxu&mt=1438908885&mv=m&nh=IgpwcjAzLm1pYTA0Kg03Mi4xNC4yMTAuMTQx&pl=21&cpn=DA10P8EkVsLF5Wlx&c=WEB&cver=html5
-#EXTINF:-1 tvg-logo="" group-title="FILMES",
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES",
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.google.com/images?q=tbn:ANd9GcQ_8oel4Ynbr96GeI67EE87TCLcnXzupAk-Xgb78fm8Bl7NDjlc" group-title="FILMES",A Múmia
+http://fs012.dropvideo.com/v/b8510ed3a9e4fb94461d3c5b30e80ed9.mp4?st=s8Xgs7-GOKxtHvCkBuR3mw
+
+#EXTINF:-1 tvg-logo="http://www.filmesonlinehd1.com/wp-content/uploads/2014/06/MV5BMTcwMjQ3Mjk0MV5BMl5BanBnXkFtZTgwNzcxNTYxMTE@._V1_SX214_AL_-200x300.jpg" group-title="FILMES",A MUMIA HD
+http://d1.neodrive.co/stream/PLUV1TB9PLB9/a9b6f83bc35749faab26e70db53027a0.mp4?st=iX8LfON6jpkEMP7DF_T2IQ
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES",
 
