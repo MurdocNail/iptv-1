@@ -1,16 +1,21 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="FILMES",
- http://www.filmes2k.info/01/500-Dias-com-Ela_x264_moovd.mp4
-#EXTINF:-1 tvg-logo="" group-title="FILMES",
+#EXTINF:-1 tvg-logo="" group-title="FILMES",500 dias com ela
+http://www.filmes2k.info/01/500-Dias-com-Ela_x264_moovd.mp4
+
+ #EXTINF:-1 tvg-logo="" group-title="FILMES",conspiracao
 http://www.filmes2k.info/01/A%20Conspiracao_moovd.mp4
-#EXTINF:-1 tvg-logo="" group-title="FILMES",
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",habito
 http://www.filmes2k.info/01/A%20Pele%20Que%20Habito_moovd.mp4
-#EXTINF:-1 tvg-logo="" group-title="FILMES",
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",a arte da conquista
 http://www.filmes2k.info/01/A-Arte-da-Conquista-Leg_x264_moovd.mp4
-#EXTINF:-1 tvg-logo="" group-title="FILMES",
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",a bruxa de blair
 http://www.filmes2k.info/01/A-Bruxa-de-Blair_x264_moovd.mp4
-#EXTINF:-1 tvg-logo="" group-title="FILMES",
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",a carga da brigada
 http://www.filmes2k.info/01/A-Carga-da-Brigada-Ligeira_x264_moovd.mp4
 #EXTINF:-1 tvg-logo="" group-title="FILMES",
 http://www.filmes2k.info/01/A-Casa-do-Lago_x264_moovd.mp4
