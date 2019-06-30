@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="" group-title="FILMES"AFONÇO PADILHA
-https://youtu.be/LMIJKmp1ZQo
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LMIJKmp1ZQo
+
 
 #EXTINF:-1 tvg-logo="" group-title="FILMES"
 #EXTINF:-1 tvg-logo="" group-title="FILMES"
