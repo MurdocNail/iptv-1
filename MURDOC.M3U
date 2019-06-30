@@ -1,11 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="" group-title="FILMES"AFONÇO PADILHA
-plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=LMIJKmp1ZQo
 
-
-#EXTINF:-1 tvg-logo="" group-title="FILMES"
-http://dl.upfdl.com/files/Series/iZombie/S01/720p/iZombie.S01E01.720p.Farda.DL.mkv
-#EXTINF:-1 tvg-logo="" group-title="FILMES"
+#EXTINF:-1 tvg-logo="" group-title="aviso"é nois
+https://drive.google.com/file/d/1MDNEx-0H1O4anN83DnNb-GHekJUeGB-J_w/view?usp=sharing
 #EXTINF:-1 tvg-logo="" group-title="FILMES"
 #EXTINF:-1 tvg-logo="" group-title="FILMES"
 #EXTINF:-1 tvg-logo="" group-title="FILMES"
